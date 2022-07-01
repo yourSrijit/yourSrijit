@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋 my self Srijit bera</h1>
 <h3 align="center">A passionate ECE student who loves to do Programming</h3>
 
