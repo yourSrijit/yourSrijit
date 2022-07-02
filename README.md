@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_srijit_" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_srijit_?logo=twitter&style=for-the-badge" alt="i_am_srijit_" /></a> </p>
 
-- 🔭 I’m currently working as a **3rd Year Student**
+- 🔭 I’m currently studing as a **3rd Year Student**
 
 - 🌱 I’m currently learning **JAVA Script,React js,JAVA**
 
