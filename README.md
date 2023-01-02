@@ -21,9 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_am_srijit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_srijit_" height="30" width="40" /></a>
-  
 <a href="https://auth.geeksforgeeks.org/user/berasrijit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sohiniamdb" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/yoursrijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoursrijit" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yoursrijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yoursrijit" height="30" width="40" /></a>
 <a href="https://fb.com/srijit.bera.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srijit.bera.1" height="30" width="40" /></a>
