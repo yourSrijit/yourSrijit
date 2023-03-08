@@ -1,5 +1,6 @@
 
-![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif)
+
 <h1 align="center">Hi 👋 my self Srijit Bera</h1>
 <h3 align="center">A passionate ECE student who loves to do Programming</h3>
 
