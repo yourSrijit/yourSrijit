@@ -7,7 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoursrijit&label=Profile%20views&color=0e75b6&style=flat" alt="yoursrijit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoursrijit" alt="yoursrijit" /></a> </p>
-<img align="right" alt="Coding" width="560" height="360"src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c64d0f47675315.58813b113affa.gif">
+
+
+<img align="right" alt="Coding" width="530" height="360"src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c64d0f47675315.58813b113affa.gif">
+
+
 
 <p align="left"> <a href="https://twitter.com/i_am_srijit_" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_srijit_?logo=twitter&style=for-the-badge" alt="i_am_srijit_" /></a> </p>
 
