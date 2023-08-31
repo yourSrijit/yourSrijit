@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_srijit_" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_srijit_?logo=twitter&style=for-the-badge" alt="i_am_srijit_" /></a> </p>
 
-- 🔭 I’m currently Studing as a **3rd Year Student of ECE stream**
+- 🔭 I’m currently Studing as a **4th Year Student of ECE stream**
 
-- 🌱 I’m currently learning **JAVA Script,React js,JAVA**
+- 🌱 I’m currently learning **JAVA Script,React js,JAVA,Hibernet**
 
 - 📫 How to reach me **berasrijit02@gmail.com**
 
