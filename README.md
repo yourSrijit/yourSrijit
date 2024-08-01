@@ -18,7 +18,7 @@
 
 - 🔭 Graduated as a **Electronics and Communication Engineer 2024**
 
-- 🌱 I’m currently learning **Full Stack WevDev , Devops , Web3 & System Enginnering**
+- 🌱 I’m currently learning **Full Stack WevDev , Devops , Web3 & System Design**
 
 - 📫 How to reach me **berasrijit02@gmail.com**
 
