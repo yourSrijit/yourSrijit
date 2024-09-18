@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi <img width="50" src="https://user-images.githubusercontent.com/62868878/222233583-8e691e5f-c334-4d2d-aaa8-a5bdd189e574.gif"> I am Srijit Bera</h1>
-<h2 align="center">Currently working in TCS Digital as System Enginner (C1) 2024</h2>
+<h2 align="center">Currently working in TCS Digital as System Engineer (C1) 2024</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoursrijit&label=Profile%20views&color=0e75b6&style=flat" alt="yoursrijit" /> </p>
