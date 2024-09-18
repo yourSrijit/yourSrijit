@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoursrijit&show_icons=true&locale=en&theme=highcontrast" alt="yoursrijit" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoursrijit&" alt="yoursrijit" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoursrijit&theme=highcontrast&border_radius=4.7)](https://git.io/streak-stats)
